@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kiran bhagannavar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="right"><img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="coding" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranbhagannavar&label=Profile%20views&color=0e75b6&style=flat" alt="kiranbhagannavar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranbhagannavar" alt="kiranbhagannavar" /></a> </p>
